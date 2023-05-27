@@ -1,3 +1,3 @@
-# Bootstrap_8-dars
+# Bootstrap_7-dars
 
-Bu reposityda Bootstrap 8-dars kodlari bor
+Bu reposityda Bootstrap 7-dars kodlari bor
